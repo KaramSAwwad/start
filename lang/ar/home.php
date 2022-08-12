@@ -33,7 +33,7 @@ return [
     'Enter your name' => 'أدخل الاسم',
     'Enter your email' => 'Enter your email',
     'Enter subject' => 'Enter subject',
-    'Enter your message' => 'Enter your message',
+    'Enter your message' => 'أدخل رسالتك',
     'Contact me' => 'Contact me',
     'Designed by' => 'Designed by',
 
