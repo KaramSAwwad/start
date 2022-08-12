@@ -35,7 +35,7 @@ return [
     'Enter subject' => 'Enter subject',
     'Enter your message' => 'أدخل رسالتك',
     'Contact me' => 'Contact me',
-    'Designed by' => 'Designed by',
+    'Designed by' => 'تصميم',
 
 
 

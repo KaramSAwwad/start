@@ -83,9 +83,9 @@
         </div>
 
     </section>
-    <!-- //HOME -->
-
-    <!-- ABOUT -->
+{{--    <!-- //HOME -->--}}
+{{----}}
+{{--    <!-- ABOUT -->--}}
     <section id="about" class="full-height px-lg-5">
         <div class="container">
 
